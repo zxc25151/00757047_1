@@ -1,0 +1,407 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		43C29E272966C15A00999233 /* _0757047_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E262966C15A00999233 /* _0757047_1App.swift */; };
+		43C29E292966C15A00999233 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E282966C15A00999233 /* ContentView.swift */; };
+		43C29E2B2966C16600999233 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E2A2966C16600999233 /* Assets.xcassets */; };
+		43C29E2E2966C16600999233 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E2D2966C16600999233 /* Preview Assets.xcassets */; };
+		43C29E512967373700999233 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E502967373700999233 /* HomeView.swift */; };
+		43C29E542967374800999233 /* YoutubeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E532967374800999233 /* YoutubeView.swift */; };
+		43C29E572967375700999233 /* PVView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E562967375700999233 /* PVView.swift */; };
+		43C29E5A2967376500999233 /* UpdateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E592967376500999233 /* UpdateView.swift */; };
+		43C29E5D296744E800999233 /* Sponge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E5C296744E800999233 /* Sponge.swift */; };
+		43C29E60296744FB00999233 /* Patrick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E5F296744FB00999233 /* Patrick.swift */; };
+		43C29E63296745EA00999233 /* eatHand.gif in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E62296745EA00999233 /* eatHand.gif */; };
+		43C29E69296745FD00999233 /* patrickGif1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E68296745FD00999233 /* patrickGif1.gif */; };
+		43C29E6C2967460200999233 /* patrickGif3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E6B2967460200999233 /* patrickGif3.gif */; };
+		43C29E6F296746AC00999233 /* GifImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E6E296746AC00999233 /* GifImage.swift */; };
+		43C29E732967513300999233 /* bobGif2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E722967513300999233 /* bobGif2.gif */; };
+		43C29E7629675B9500999233 /* Squidward.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E7529675B9500999233 /* Squidward.swift */; };
+		43C29E7929675C5400999233 /* squidwardGif1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E7829675C5400999233 /* squidwardGif1.gif */; };
+		43C29E7C29675C6200999233 /* squidwardGif2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 43C29E7B29675C6200999233 /* squidwardGif2.gif */; };
+		43C29E7F2967609A00999233 /* SpongeMeme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E7E2967609A00999233 /* SpongeMeme.swift */; };
+		43C29E82296760AA00999233 /* PatrickMeme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E81296760AA00999233 /* PatrickMeme.swift */; };
+		43C29E85296760B800999233 /* SquidwardMeme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E84296760B800999233 /* SquidwardMeme.swift */; };
+		43C29E882967690C00999233 /* MemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E872967690C00999233 /* MemeView.swift */; };
+		43C29E8B2967691B00999233 /* GifView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C29E8A2967691B00999233 /* GifView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		43C29E232966C15A00999233 /* 00757047_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 00757047_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		43C29E262966C15A00999233 /* _0757047_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _0757047_1App.swift; sourceTree = "<group>"; };
+		43C29E282966C15A00999233 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		43C29E2A2966C16600999233 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		43C29E2D2966C16600999233 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		43C29E2F2966C16600999233 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43C29E502967373700999233 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		43C29E532967374800999233 /* YoutubeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeView.swift; sourceTree = "<group>"; };
+		43C29E562967375700999233 /* PVView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PVView.swift; sourceTree = "<group>"; };
+		43C29E592967376500999233 /* UpdateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateView.swift; sourceTree = "<group>"; };
+		43C29E5C296744E800999233 /* Sponge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sponge.swift; sourceTree = "<group>"; };
+		43C29E5F296744FB00999233 /* Patrick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Patrick.swift; sourceTree = "<group>"; };
+		43C29E62296745EA00999233 /* eatHand.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = eatHand.gif; sourceTree = "<group>"; };
+		43C29E68296745FD00999233 /* patrickGif1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = patrickGif1.gif; sourceTree = "<group>"; };
+		43C29E6B2967460200999233 /* patrickGif3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = patrickGif3.gif; sourceTree = "<group>"; };
+		43C29E6E296746AC00999233 /* GifImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifImage.swift; sourceTree = "<group>"; };
+		43C29E722967513300999233 /* bobGif2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bobGif2.gif; sourceTree = "<group>"; };
+		43C29E7529675B9500999233 /* Squidward.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squidward.swift; sourceTree = "<group>"; };
+		43C29E7829675C5400999233 /* squidwardGif1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = squidwardGif1.gif; sourceTree = "<group>"; };
+		43C29E7B29675C6200999233 /* squidwardGif2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = squidwardGif2.gif; sourceTree = "<group>"; };
+		43C29E7E2967609A00999233 /* SpongeMeme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpongeMeme.swift; sourceTree = "<group>"; };
+		43C29E81296760AA00999233 /* PatrickMeme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatrickMeme.swift; sourceTree = "<group>"; };
+		43C29E84296760B800999233 /* SquidwardMeme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquidwardMeme.swift; sourceTree = "<group>"; };
+		43C29E872967690C00999233 /* MemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeView.swift; sourceTree = "<group>"; };
+		43C29E8A2967691B00999233 /* GifView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		43C29E202966C15A00999233 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		43C29E1A2966C15A00999233 = {
+			isa = PBXGroup;
+			children = (
+				43C29E252966C15A00999233 /* 00757047_1 */,
+				43C29E242966C15A00999233 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		43C29E242966C15A00999233 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				43C29E232966C15A00999233 /* 00757047_1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		43C29E252966C15A00999233 /* 00757047_1 */ = {
+			isa = PBXGroup;
+			children = (
+				43C29E262966C15A00999233 /* _0757047_1App.swift */,
+				43C29E282966C15A00999233 /* ContentView.swift */,
+				43C29E8A2967691B00999233 /* GifView.swift */,
+				43C29E872967690C00999233 /* MemeView.swift */,
+				43C29E502967373700999233 /* HomeView.swift */,
+				43C29E532967374800999233 /* YoutubeView.swift */,
+				43C29E562967375700999233 /* PVView.swift */,
+				43C29E7529675B9500999233 /* Squidward.swift */,
+				43C29E5F296744FB00999233 /* Patrick.swift */,
+				43C29E5C296744E800999233 /* Sponge.swift */,
+				43C29E6E296746AC00999233 /* GifImage.swift */,
+				43C29E592967376500999233 /* UpdateView.swift */,
+				43C29E84296760B800999233 /* SquidwardMeme.swift */,
+				43C29E81296760AA00999233 /* PatrickMeme.swift */,
+				43C29E7E2967609A00999233 /* SpongeMeme.swift */,
+				43C29E2A2966C16600999233 /* Assets.xcassets */,
+				43C29E62296745EA00999233 /* eatHand.gif */,
+				43C29E722967513300999233 /* bobGif2.gif */,
+				43C29E68296745FD00999233 /* patrickGif1.gif */,
+				43C29E6B2967460200999233 /* patrickGif3.gif */,
+				43C29E7829675C5400999233 /* squidwardGif1.gif */,
+				43C29E7B29675C6200999233 /* squidwardGif2.gif */,
+				43C29E2F2966C16600999233 /* Info.plist */,
+				43C29E2C2966C16600999233 /* Preview Content */,
+			);
+			path = 00757047_1;
+			sourceTree = "<group>";
+		};
+		43C29E2C2966C16600999233 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				43C29E2D2966C16600999233 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		43C29E222966C15A00999233 /* 00757047_1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 43C29E322966C16600999233 /* Build configuration list for PBXNativeTarget "00757047_1" */;
+			buildPhases = (
+				43C29E1F2966C15A00999233 /* Sources */,
+				43C29E202966C15A00999233 /* Frameworks */,
+				43C29E212966C15A00999233 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 00757047_1;
+			productName = 00757047_1;
+			productReference = 43C29E232966C15A00999233 /* 00757047_1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		43C29E1B2966C15A00999233 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					43C29E222966C15A00999233 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = 43C29E1E2966C15A00999233 /* Build configuration list for PBXProject "00757047_1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 43C29E1A2966C15A00999233;
+			productRefGroup = 43C29E242966C15A00999233 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				43C29E222966C15A00999233 /* 00757047_1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		43C29E212966C15A00999233 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43C29E63296745EA00999233 /* eatHand.gif in Resources */,
+				43C29E7C29675C6200999233 /* squidwardGif2.gif in Resources */,
+				43C29E7929675C5400999233 /* squidwardGif1.gif in Resources */,
+				43C29E2E2966C16600999233 /* Preview Assets.xcassets in Resources */,
+				43C29E732967513300999233 /* bobGif2.gif in Resources */,
+				43C29E6C2967460200999233 /* patrickGif3.gif in Resources */,
+				43C29E69296745FD00999233 /* patrickGif1.gif in Resources */,
+				43C29E2B2966C16600999233 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		43C29E1F2966C15A00999233 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43C29E85296760B800999233 /* SquidwardMeme.swift in Sources */,
+				43C29E5D296744E800999233 /* Sponge.swift in Sources */,
+				43C29E7F2967609A00999233 /* SpongeMeme.swift in Sources */,
+				43C29E82296760AA00999233 /* PatrickMeme.swift in Sources */,
+				43C29E572967375700999233 /* PVView.swift in Sources */,
+				43C29E6F296746AC00999233 /* GifImage.swift in Sources */,
+				43C29E5A2967376500999233 /* UpdateView.swift in Sources */,
+				43C29E292966C15A00999233 /* ContentView.swift in Sources */,
+				43C29E882967690C00999233 /* MemeView.swift in Sources */,
+				43C29E512967373700999233 /* HomeView.swift in Sources */,
+				43C29E8B2967691B00999233 /* GifView.swift in Sources */,
+				43C29E7629675B9500999233 /* Squidward.swift in Sources */,
+				43C29E542967374800999233 /* YoutubeView.swift in Sources */,
+				43C29E60296744FB00999233 /* Patrick.swift in Sources */,
+				43C29E272966C15A00999233 /* _0757047_1App.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		43C29E302966C16600999233 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		43C29E312966C16600999233 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		43C29E332966C16600999233 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"00757047_1/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = 00757047_1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "ntou.-0757047-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		43C29E342966C16600999233 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"00757047_1/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = 00757047_1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "ntou.-0757047-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		43C29E1E2966C15A00999233 /* Build configuration list for PBXProject "00757047_1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43C29E302966C16600999233 /* Debug */,
+				43C29E312966C16600999233 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		43C29E322966C16600999233 /* Build configuration list for PBXNativeTarget "00757047_1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43C29E332966C16600999233 /* Debug */,
+				43C29E342966C16600999233 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 43C29E1B2966C15A00999233 /* Project object */;
+}
